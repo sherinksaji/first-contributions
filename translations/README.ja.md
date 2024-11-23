@@ -49,14 +49,14 @@ git clone https://github.com/＜あなたのユーザー名＞/first-contributio
 ```
 cd first-contributions
 ```
-`git checkout` コマンドを使用してブランチを作成します：
+`git switch` コマンドを使用してブランチを作成します：
 ```
-git checkout -b <add-your-name>
+git switch -c <add-your-name>
 ```
 
 例:
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 (ブランチの名前には必ずしも*add*が含まれていなければならないわけではありませんが、このブランチの目的があなたの名前をリストに加えることであることを考慮すれば含むのが適切です。)
 
@@ -91,21 +91,21 @@ GitHub上であなたのリポジトリに行くと、`Compare & pull request`�
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-プルリクエストを作ってください：
+プルリクエストを作ってください。
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-すぐに私が加えられた変更をmasterブランチにマージします。マージが終了した際にはその旨のメールが送られます。
+すぐに私が加えられた変更をmainブランチにマージします。マージが終了した際にはその旨のメールが送られます。
 
 ## 次に何をするべきか
 
 おめでとうございます！  コントリビューターとして重要な _フォーク -> クローン -> 編集 -> プルリクエスト_　の基本的なワークフローが完了しました。
 
-初のオープンソースへの貢献を祝って友達やフォロワーにそのことを[このウェブアプリ](https://roshanjossey.github.io/first-contributions/#social-share)を使ってシェアしましょう。
+初のオープンソースへの貢献を祝って友達やフォロワーにそのことを[このウェブアプリ](https://firstcontributions.github.io/#social-share)を使ってシェアしましょう。
 
 もし何かしら質問があるようでしたら[私たちのSlack team](https://firstcontributors.slack.com/join/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)に入ってください。
 
-他のプロジェクトへの貢献を始めましょう。簡単なイシューが立てられているプロジェクトのリストを作りました。ウェブアプリで[プロジェクトリスト](https://roshanjossey.github.io/first-contributions/#project-list)を確認て見てください。
+他のプロジェクトへの貢献を始めましょう。簡単なイシューが立てられているプロジェクトのリストを作りました。ウェブアプリで[プロジェクトリスト](https://firstcontributions.github.io/#project-list)を確認て見てください。
 
 ### [追加リソース](../additional-material/git_workflow_scenarios/additional-material.md)
 
